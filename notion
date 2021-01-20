@@ -1,0 +1,4 @@
+<a class="weatherwidget-io" href="https://forecast7.com/en/32d51n117d04/tijuana/" data-label_1="Tijuana" data-label_2="Baja california" data-font="Monaco" data-theme="original" data-basecolor="#e7d5ec" data-shadow="#ffffff" data-textcolor="#000000" data-highcolor="#af81b3" data-lowcolor="#925aa4" data-mooncolor="#e0ffff" data-cloudcolor="#938c94" data-cloudfill="#594168" >Tijuana Baja california</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
